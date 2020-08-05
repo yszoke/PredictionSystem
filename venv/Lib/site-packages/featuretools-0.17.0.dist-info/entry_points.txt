@@ -1,0 +1,3 @@
+[console_scripts]
+featuretools = featuretools.__main__:cli
+
