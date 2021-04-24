@@ -8,4 +8,3 @@ models- train the models with the train file and predict the outcomes of the mat
 for using the code, download the database from this site, and place in the project folder:
 https://www.kaggle.com/hugomathien/soccer
 
-by: Yiftah Szoke
